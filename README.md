@@ -1,2 +1,2 @@
 # Introduccion a Web Scrapping
- Teoría más ejercicios
+En este Miniproyecto aprendemos cómo se puede acceder a una tabla en una página web y convertirla en un DataFrame y en un Excel completamente funcionales. Esto resultará útil para obtener unos datos en caso de que no vengan acompañados de un botón para descargarlos.
